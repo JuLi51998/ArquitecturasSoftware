@@ -12,6 +12,5 @@ $button.addEventListener('click', () => {
     const resultado = suma(number);
 
     // imprimir el resultado
-
     $result.innerHTML = resultado;
 });
