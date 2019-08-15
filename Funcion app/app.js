@@ -1,4 +1,4 @@
-function contadorDigitos (string) {
-    let digitos = string.toString()
+function contadorDigitos (numero) {
+    let digitos = numero.toString()
     return digitos.length
 }
