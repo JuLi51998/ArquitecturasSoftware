@@ -1,0 +1,23 @@
+{
+  "name": "arquitecturassoftware",
+  "version": "1.0.0",
+  "description": "Pruebas",
+  "main": "Conexion.js",
+  "dependencies": {
+    "jest": "^24.8.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wil0420/ArquitecturasSoftware.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wil0420/ArquitecturasSoftware/issues"
+  },
+  "homepage": "https://github.com/wil0420/ArquitecturasSoftware#readme"
+}
