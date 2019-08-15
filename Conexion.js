@@ -11,6 +11,7 @@ $button.addEventListener('click', () => {
     //igual a la funcion que use alejandro
     const resultado = suma(number);
 
+    // imprimir el resultado
 
-
+    $result.innerHTML = resultado;
 });
