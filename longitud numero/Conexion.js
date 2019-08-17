@@ -10,7 +10,7 @@ $button.addEventListener('click', () => {
     const number = Number.parseInt($numero.value);
     //igual a la funcion que use alejandro
     const resultado = contadorDigitos(number);
-
+//
     // imprimir el resultado
     $result.innerHTML = resultado;
 });
