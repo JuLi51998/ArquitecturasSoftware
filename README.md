@@ -6,3 +6,7 @@ En este repositorio trabajaemos colaborativamente los ejemplos de construcción 
 
 - Contar Digitos
 - Secuencia de Collatz
+- Sumatoria hasta
+- Sumatoria en Rango
+- API
+- Menu Front
