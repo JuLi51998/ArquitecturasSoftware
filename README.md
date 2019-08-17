@@ -1,5 +1,8 @@
-# Arquitectura de Software
+# ArquitecturasSoftware
 
-En este repo tenemos los ejercicios de la segunda semana de Agosto
+En este repositorio trabajaemos colaborativamente los ejemplos de construcción de software
 
-## Los ejercicios son
+## Los ejercicios son:
+
+- Contar Digitos
+- Secuencia de Collatz
