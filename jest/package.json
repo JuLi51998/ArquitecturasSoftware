@@ -6,7 +6,9 @@
   "dependencies": {
     "jest": "^24.8.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
   "scripts": {
     "test": "jest"
   },
